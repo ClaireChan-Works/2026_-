@@ -4,7 +4,7 @@
 
 ## 網站
 
-GitHub Pages 網址：部署完成後更新
+GitHub Pages 網址：https://clairechan-works.github.io/2026_-/
 
 ## 報名資料
 
